@@ -130,7 +130,7 @@ Distributed under the MIT License. See LICENSE for more information.
 *   **RSI (55.73):** Neutral-Bullish. Room to run before overbought (>70). No bearish divergence yet.
 *   **Moving Averages:** Price remains capped by declining SMA_50 ($2,277) and SMA_200 ($2,296). **Rallies are corrective until SMA_50 is reclaimed.**
 
-![Chart]()
+![Chart](https://github.com/Hooman1996/Autonomous-Market-Intelligence-Swarm/blob/main/output/chart_XAU_USD.png)
 
 ---
 
